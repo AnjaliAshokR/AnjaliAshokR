@@ -1,5 +1,8 @@
 <h2 align="center">Hi there 👋 I am Anjali Ashok </h2>
 <h3 align="center"> Data-driven problem solver with a keen interest in analytics and machine learning </h3>
+
+* Learning machine learning, big data tools, and analytics
+
 <!--
 **AnjaliAshokR/AnjaliAshokR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
