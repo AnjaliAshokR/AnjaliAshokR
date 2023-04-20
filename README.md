@@ -9,7 +9,7 @@
 *  you can reach me through [e-mail](mailto:anjaliashok2809@gmail.com)
 
 <h3> Connect with me </h3>
-[linkedin]: https://www.linkedin.com/in/anjali-ashok-948845100/
+[linkedin] : https://www.linkedin.com/in/anjali-ashok-948845100/
 
 
 
