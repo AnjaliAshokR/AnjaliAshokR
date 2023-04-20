@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 I am Anjali Ashok
+##Data-driven problem solver with a keen interest in analytics and machine learning
 <!--
 **AnjaliAshokR/AnjaliAshokR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
